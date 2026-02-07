@@ -1,0 +1,2 @@
+This is my personal project.
+It is created to practice Git operations like init, add, commit, and log.
